@@ -32,11 +32,13 @@ Next, I explored the correlations between the physical attributes and the target
 
 Modeling:
 
-To predict the gender of penguins based on their physical attributes, I trained several machine learning models, including logistic regression, decision tree, random forest, and support vector machine (SVM). 
+To predict the gender of penguins based on their physical attributes, I trained several machine learning models, including Logistic Regression, Support  Vector Machine, Random Forest Algorithm, XGBoost Algorithm.
 
 Conclusion:
 
 In this portfolio, I explored the classification of penguin species based on gender prediction. Using various machine learning models, I was able to accurately predict the gender of penguins based on their physical characteristics. The random forest and SVM models achieved the highest accuracy scores, suggesting that they are the best models for this particular classification problem. This work can be extended to explore other features or attributes of penguins, such as habitat or diet, and how they relate to gender.
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/101933981/221394830-586ee665-044d-4c00-ad3e-a2910fe5ecf6.png">
+
 
 
 Project-2:Exploratory Data Analysis on football match results and prediction using Machine Learning Algorithms
@@ -46,8 +48,14 @@ Project-2:Exploratory Data Analysis on football match results and prediction usi
 Introduction:
 In this portfolio, I will discuss exploratory data analysis (EDA) on football match results and the prediction of a betting model using machine learning algorithms. Football is one of the most popular sports in the world, and many people enjoy betting on the outcomes of matches. In this project, I will analyze historical football match results to identify patterns and relationships that can inform the development of a betting model.
 
+![image](https://user-images.githubusercontent.com/101933981/221395058-d714c798-5e81-4e32-b53e-f3674f9cce97.png)
+
+
 Data:
 The data used in this project was obtained from the Open Football API, which provides access to historical football match results for various leagues and competitions around the world. The data contains information on the date of the match, the teams playing, the final score, and various other statistics such as shots on target and possession percentage.
+https://www.football-data.co.uk/englandm.php  - Dataset source
+
+
 
 Exploratory Data Analysis:
 
@@ -61,4 +69,4 @@ To predict the outcomes of football matches and develop a betting model, I train
 
 Conclusion:
 
-In this portfolio, I explored exploratory data analysis on football match results and the prediction of a betting model using machine learning algorithms. Using various machine learning models, I was able to accurately predict the outcomes of football matches based on historical data. The random forest and SVM models achieved the highest accuracy scores, suggesting that they are the best models for this particular prediction problem. This work can be extended to include additional variables, such as weather conditions or injuries to key players, that may impact the outcome of matches. Overall, this project highlights the potential of machine learning in sports betting and data analysis.
+In this portfolio, I explored exploratory data analysis on football match results and the prediction of a betting model using machine learning algorithms. Using various machine learning models, I was able to accurately predict the outcomes of football matches based on historical data. The random forest  model achieved the highest accuracy scores, suggesting that they are the best models for this particular prediction problem. This work can be extended to include additional variables, such as weather conditions or injuries to key players, that may impact the outcome of matches. Overall, this project highlights the potential of machine learning in sports betting and data analysis.
