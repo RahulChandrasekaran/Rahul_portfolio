@@ -129,7 +129,27 @@ In this portfolio, I explored exploratory data analysis on football match result
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/101933981/221395377-4bca4880-2f04-483e-8a0a-3b0bff98b2e3.png)
+
+
+
+
+
+
+
+
+
 
 
 
