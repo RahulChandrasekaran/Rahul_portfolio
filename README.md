@@ -10,6 +10,16 @@ Introduction:
 
 In this portfolio, I will discuss the classification of penguin species based on gender prediction. Penguins are flightless birds that are found in the southern hemisphere, and they are well-known for their tuxedo-like appearance. There are a variety of penguin species, and one common challenge is accurately determining the gender of individual birds. In this portfolio, I will explore different machine learning models to predict the gender of penguins based on their physical characteristics.
 
+
+![30627f237982b80399f5d2db0c8daeeea38a5950 (1)](https://user-images.githubusercontent.com/101933981/221393836-1c739cc3-fadd-4a06-a89b-d2c6928adf0a.jpeg)
+
+
+
+
+
+
+
+
 Data:
 
 The data used in this project was obtained from the Kaggle. It contains information on 344 penguins of three different species: Adelie, Gentoo, and Chinstrap. Each penguin is described by various physical attributes such as bill length, bill depth, flipper length, and body mass. The target variable in this classification problem is the gender of the penguin, which is labeled as either male or female.
