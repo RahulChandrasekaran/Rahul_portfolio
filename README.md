@@ -3,7 +3,7 @@
 Data Science Portfolio
 
 
-Project-1:Classification of penquin species based on gender prediction
+Project-1:Classification of penguin species based on gender prediction
 
 
 Introduction:
